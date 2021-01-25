@@ -1,0 +1,55 @@
+body {
+   display: flex;
+justify-content: center;
+}
+.center {
+    margin-top: 150px;
+}
+li {
+    margin-top: 10px;    
+    list-style-type: none;  
+    word-break: break-word;
+    width: 280pt;
+    }
+    
+.ul{
+    padding-left: 5px;  
+   }
+  
+      
+  
+.tabs-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px; 
+    
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px; 
+    margin-bottom: 5px;  
+}
+#counted-tasks {
+    display: flex;
+justify-content: center;
+position: relative;
+
+
+}
+#pages-list {
+    display: flex;
+    justify-content: center;
+     }
+.h1-todo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: 28pt;
+    
+}
+.counter-of-tasks {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
